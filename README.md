@@ -5,7 +5,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leanczo&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### Contact me:
+### Contact me
+- [![Github](https://img.shields.io/github/followers/leanczo?label=Follow&style=social)](https://github.com/leanczo)
 - [![Email](https://img.shields.io/badge/lean094c@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](lean094c@gmail.com)
 - [![Linkedin](https://img.shields.io/badge/-Leandro%20Nicolás%20Cardozo-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-nicol%C3%A1s-cardozo-5a690b1a2/)](https://www.linkedin.com/in/leandro-nicol%C3%A1s-cardozo-5a690b1a2/)
 
