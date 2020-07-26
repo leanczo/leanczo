@@ -7,6 +7,6 @@
 
 ### Contact me:
 - [![Email](https://img.shields.io/badge/lean094c@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](lean094c@gmail.com)
-- [![Linkedin](https://img.shields.io/badge/-Leandro N. Cardozo-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-nicol%C3%A1s-cardozo-5a690b1a2/)](https://www.linkedin.com/in/leandro-nicol%C3%A1s-cardozo-5a690b1a2/)
+- [![Linkedin](https://img.shields.io/badge/-Leandro-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-nicol%C3%A1s-cardozo-5a690b1a2/)](https://www.linkedin.com/in/leandro-nicol%C3%A1s-cardozo-5a690b1a2/)
 
 ⭐️ From [Leanczo](https://github.com/leanczo)
