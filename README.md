@@ -7,8 +7,8 @@
 &nbsp;
 ## My GitHub Stats
 
-[![Leanczo github stats](https://github-readme-stats.vercel.app/api?username=leanczo&count_private=true&theme=great-gatsby&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leanczo&count_private=true&theme=great-gatsby&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Leanczo github stats](https://github-readme-stats.vercel.app/api?username=leanczo&count_private=true&theme=vue&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leanczo&count_private=true&theme=vue&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ✨ Visitors
 [![ViewCount](https://views.whatilearened.today/views/github/leanczo/ismlhbb.svg?cache=remove)](#)
