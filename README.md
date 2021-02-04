@@ -10,7 +10,7 @@
 [![Leanczo github stats](https://github-readme-stats.vercel.app/api?username=leanczo&count_private=true&theme=dracula&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leanczo&count_private=true&theme=dracula&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## ⌛ **Wakatime stats**
+## ⌛ **Wakatime Stats**
 
 [![Leanczo wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leanczo&theme=dracula)](https://github.com/leanczo/github-readme-stats)
 
