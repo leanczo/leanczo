@@ -7,12 +7,11 @@
 &nbsp;
 ## My GitHub Stats
 
-[![Leanczo github stats](https://github-readme-stats.vercel.app/api?username=leanczo&count_private=true&theme=dracula&show_icons=true&hide=stars)](https://github.com/leanczo/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leanczo&count_private=true&theme=dracula&show_icons=true&layout=compact)](https://github.com/leanczo/github-readme-stats)
-
+[![Leanczo github stats](https://github-readme-stats.vercel.app/api?username=leanczo&count_private=true&theme=dracula&show_icons=true&hide=stars)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leanczo&count_private=true&theme=dracula&show_icons=true&layout=compact)]
 ## ⌛ **Wakatime Stats**
 
-[![Leanczo wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leanczo&theme=dracula)](https://github.com/leanczo/github-readme-stats)
+[![Leanczo wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leanczo&theme=dracula)]
 
 ## ✨ Visitors
 [![ViewCount](https://views.whatilearened.today/views/github/leanczo/ismlhbb.svg?cache=remove)](#)
