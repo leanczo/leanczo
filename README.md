@@ -11,7 +11,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leanczo&count_private=true&show_icons=true&layout=compact)
 ## Wakatime Stats
 
-![Leanczo wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leanczo)
+![Leanczo wakatime stats](https://readme-stats-leanczo.vercel.app/api/wakatime?username=leanczo)
 
 ## ✨ Visitors
 [![ViewCount](https://views.whatilearened.today/views/github/leanczo/ismlhbb.svg?cache=remove)](#)
