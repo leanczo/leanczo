@@ -6,6 +6,4 @@
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-nicol%C3%A1s-cardozo-5a690b1a2/)](https://www.linkedin.com/in/leandro-nicol%C3%A1s-cardozo-5a690b1a2/)
 [![ViewCount](https://views.whatilearened.today/views/github/leanczo/ismlhbb.svg?cache=remove)](#)
 
-### Wakatime Stats
-
 ![Leanczo wakatime stats](https://readme-stats-leanczo.vercel.app/api/wakatime?username=leanczo&layout=compact)
