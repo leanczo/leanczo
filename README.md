@@ -11,7 +11,7 @@
 
 <div align="center" width="100%" > 
 
-![Leanczo wakatime stats](https://readme-stats-leanczo.vercel.app/api/wakatime?username=leanczo&layout=compact&theme=dark)
+![Leanczo wakatime stats](https://readme-stats-leanczo.vercel.app/api/wakatime?username=leanczo&layout=compact&theme=light)
 
 </div>
 
