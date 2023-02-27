@@ -2,7 +2,6 @@
 
 <div align="center" width="100%" >  
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lean094c@gmail.com)
 ![GitHub followers](https://img.shields.io/github/followers/leanczo?label=Follow&style=social)
 [![ViewCount](https://views.whatilearened.today/views/github/leanczo/ismlhbb.svg?cache=remove)](#)
 
