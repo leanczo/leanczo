@@ -42,7 +42,13 @@ namespace Leanczo
                 },
                 new {
                     store = "Connect IQ Store",
-                    projects = new string[] { "bayern-munich-wf", "boca-jrs-wf", "paris-saint-germain-wf", "arsenal-wf", "barcelona-wf", "real-madrid-wf", "argentina-wf" }
+                    projects = new string[] { "bayern-munich-wf", 
+                                              "boca-jrs-wf", 
+                                              "paris-saint-germain-wf", 
+                                              "arsenal-wf", 
+                                              "barcelona-wf", 
+                                              "real-madrid-wf", 
+                                              "argentina-wf" }
                 },
                 new {
                     store = "Visual Studio Code Marketplace",
