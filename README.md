@@ -21,7 +21,8 @@ namespace Leanczo
                                               "arsenal-wf", 
                                               "barcelona-wf", 
                                               "real-madrid-wf", 
-                                              "argentina-wf" }
+                                              "argentina-wf",
+                                              "inter-miami-wf" }
                 },
                 new {
                     store = "Visual Studio Code Marketplace",
