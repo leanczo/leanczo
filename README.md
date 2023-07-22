@@ -23,3 +23,9 @@ I'm passionate about developing apps for smart devices and I've published a seri
 
 ### Visual Studio Code Marketplace
 In addition, I've developed and published a useful extension for Visual Studio Code called [¿A cuánto están los verdes?](https://marketplace.visualstudio.com/items?itemName=leanczo.blue-dollar) that you can find in the VSCode store.
+
+## Other projects 
+- [Meta backend capstone](https://github.com/leanczo/meta-backend-capstone)
+- [Meta frontend capstone](https://github.com/leanczo/meta-frontend-capstone)
+- [JSON Query Builder](https://query-json-generator.vercel.app/)
+- [Bajo cielo salteño](https://bajo-cielo-salteno.vercel.app/)
