@@ -32,7 +32,6 @@ In addition, I've developed and published a useful extension for Visual Studio C
 | [¿A cuánto están los verdes?](https://marketplace.visualstudio.com/items?itemName=leanczo.blue-dollar) | Allows you to see what is the price of the blue or informal dollar in Argentina | 58 |
 
 ## Other projects 
-Sure, here are the improved descriptions:
 
 | Name | Description |
 |---|---|
