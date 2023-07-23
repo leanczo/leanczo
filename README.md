@@ -26,10 +26,17 @@ I'm passionate about developing apps for smart devices and I've published a seri
 | [Simple Universidad de Chile](https://apps.garmin.com/en-US/apps/023d0013-6ca6-4df1-b0c9-b5fccd79234b) | 0 |
 
 ### Visual Studio Code Marketplace
-In addition, I've developed and published a useful extension for Visual Studio Code called [¿A cuánto están los verdes?](https://marketplace.visualstudio.com/items?itemName=leanczo.blue-dollar) that you can find in the VSCode store.
+In addition, I've developed and published a useful extension for Visual Studio Code 
+| Extension | Downloads |
+|---|---|
+| [¿A cuánto están los verdes?](https://marketplace.visualstudio.com/items?itemName=leanczo.blue-dollar) | 58 |
 
 ## Other projects 
-- [Meta backend capstone](https://github.com/leanczo/meta-backend-capstone)
-- [Meta frontend capstone](https://github.com/leanczo/meta-frontend-capstone)
-- [JSON Query Builder](https://query-json-generator.vercel.app/)
-- [Bajo cielo salteño](https://bajo-cielo-salteno.vercel.app/)
+Sure, here are the improved descriptions:
+
+| Name | Description |
+|---|---|
+| [Meta backend capstone](https://github.com/leanczo/meta-backend-capstone) | This is a capstone project for the Meta Backend Developer certification, showcasing proficiency in creating and managing backend services and functions. |
+| [Meta frontend capstone](https://github.com/leanczo/meta-frontend-capstone) | This is a capstone project for the Meta Frontend Developer certification, demonstrating mastery over visual and interactivity elements on the web. |
+| [JSON Query Builder](https://query-json-generator.vercel.app/) | This is a practical tool designed to generate JSON text, assisting users in efficiently building and formatting JSON queries. |
+| [Bajo cielo salteño](https://bajo-cielo-salteno.vercel.app/) | This is a personal blog where I share my trekking adventures and experiences, specifically in the Salta region. |
