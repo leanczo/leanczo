@@ -27,9 +27,9 @@ I'm passionate about developing apps for smart devices and I've published a seri
 
 ### Visual Studio Code Marketplace
 In addition, I've developed and published a useful extension for Visual Studio Code 
-| Extension | Downloads |
-|---|---|
-| [¿A cuánto están los verdes?](https://marketplace.visualstudio.com/items?itemName=leanczo.blue-dollar) | 58 |
+| Extension | Description | Downloads |
+|---|---|---|
+| [¿A cuánto están los verdes?](https://marketplace.visualstudio.com/items?itemName=leanczo.blue-dollar) | Allows you to see what is the price of the blue or informal dollar in Argentina | 58 |
 
 ## Other projects 
 Sure, here are the improved descriptions:
@@ -40,3 +40,4 @@ Sure, here are the improved descriptions:
 | [Meta frontend capstone](https://github.com/leanczo/meta-frontend-capstone) | This is a capstone project for the Meta Frontend Developer certification, demonstrating mastery over visual and interactivity elements on the web. |
 | [JSON Query Builder](https://query-json-generator.vercel.app/) | This is a practical tool designed to generate JSON text, assisting users in efficiently building and formatting JSON queries. |
 | [Bajo cielo salteño](https://bajo-cielo-salteno.vercel.app/) | This is a personal blog where I share my trekking adventures and experiences, specifically in the Salta region. |
+| [Ranking of karma by subreddit](https://github.com/leanczo/ranking-by-subreddit) | It is a script that allows you to save in a table the amount of karma that users earned in a given time. Maybe the code is already obsolete. |
