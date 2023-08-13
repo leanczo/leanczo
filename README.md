@@ -23,7 +23,8 @@ I'm passionate about developing apps for smart devices and I've published a seri
 | [Simple Barcelona](https://apps.garmin.com/en-US/apps/1ca89431-4c02-416e-9b09-5a30aa243f21) | 987 |
 | [Simple Argentina](https://apps.garmin.com/en-US/apps/79cc9fad-d173-4e9a-a0d8-42da3453c48e) | 100 |
 | [Simple Inter Miami](https://apps.garmin.com/en-US/apps/68841b32-7ac8-4856-b7a6-4e1ef730ca7d) | 64 |
-| [Simple Universidad de Chile](https://apps.garmin.com/en-US/apps/023d0013-6ca6-4df1-b0c9-b5fccd79234b) | 4 |
+| [Simple Universidad de Chile](https://apps.garmin.com/en-US/apps/023d0013-6ca6-4df1-b0c9-b5fccd79234b) | 12 |
+| [Simple Colo-Colo](https://apps.garmin.com/en-US/apps/497b266d-ddb5-4c00-add4-d2bd4b8926f2) | 8 |
 
 ### Visual Studio Code Marketplace
 In addition, I've developed and published a useful extension for Visual Studio Code 
