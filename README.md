@@ -9,6 +9,7 @@ I've worked on several browser extensions that have been published on the Chrome
 | [Reddit Usernames Anon](https://chrome.google.com/webstore/detail/reddit-usernames-anon/gjpfnoagjnekjcochongcehlgagcjbji?hl=es-419&authuser=0) | This extension hide all usernames from Reddit |
 | [Argentina World Champion Theme](https://chrome.google.com/webstore/detail/argentina-world-champion/poihhlcdlenifjfdhggpobbioihjhoba?hl=es-419&authuser=0) |Just a theme of the argentina national soccer team |
 | [Coldplay Theme](https://chrome.google.com/webstore/detail/coldplay-theme/gnconfiaceodmonbmgligddildpnmlie?hl=es-419&authuser=0) | Just a theme of the band Coldplay |
+| [Hi English Theme](https://chrome.google.com/webstore/detail/ebpiaffhhfjnncdlabaojcgdjobkpiap?authuser=0&hl=es-419)| Just a theme of a english learning platform |
 
 ### Connect IQ Store
 I'm passionate about developing apps for smart devices and I've published a series of watchfaces on the Connect IQ Store. You can check out some of them here:
