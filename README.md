@@ -39,6 +39,7 @@ In addition, I've developed and published a useful extension for Visual Studio C
 |---|---|
 | [Meta backend capstone](https://github.com/leanczo/meta-backend-capstone) | This is a capstone project for the Meta Backend Developer certification, showcasing proficiency in creating and managing backend services and functions. |
 | [Meta frontend capstone](https://github.com/leanczo/meta-frontend-capstone) | This is a capstone project for the Meta Frontend Developer certification, demonstrating mastery over visual and interactivity elements on the web. |
+| [Meta database engineer capstone](https://github.com/leanczo/db-capstone-project) | This is a capstone project for the Meta Database Enginneer certification. |
 | [JSON Query Builder](https://query-json-generator.vercel.app/) | This is a practical tool designed to generate JSON text, assisting users in efficiently building and formatting JSON queries. |
 | [Bajo el cielo salteño](https://bajo-el-cielo-salteno.vercel.app/) | This is a personal blog where I share my trekking adventures and experiences, specifically in the Salta region. |
 | [Ranking of karma by subreddit](https://github.com/leanczo/ranking-by-subreddit) | It is a script that allows you to save in a table the amount of karma that users earned in a given time. Maybe the code is already obsolete. |
