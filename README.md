@@ -32,7 +32,7 @@ I'm passionate about developing apps for smart devices and I've published a seri
 In addition, I've developed and published a useful extension for Visual Studio Code 
 | Extension | Description | Downloads |
 |---|---|---|
-| [¿A cuánto están los verdes?](https://marketplace.visualstudio.com/items?itemName=leanczo.blue-dollar) | Allows you to see what is the price of the blue or informal dollar in Argentina | 58 |
+| [¿A cuánto están los verdes?](https://marketplace.visualstudio.com/items?itemName=leanczo.blue-dollar) | Allows you to see what is the price of the blue or informal dollar in Argentina | 77 |
 
 ## Other projects 
 
