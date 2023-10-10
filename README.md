@@ -45,3 +45,5 @@ In addition, I've developed and published a useful extension for Visual Studio C
 | [Bajo el cielo salteño](https://bajo-el-cielo-salteno.vercel.app/) | This is a personal blog where I share my trekking adventures and experiences, specifically in the Salta region. |
 | [Ranking of karma by subreddit](https://github.com/leanczo/ranking-by-subreddit) | It is a script that allows you to save in a table the amount of karma that users earned in a given time. Maybe the code is already obsolete. |
 | [No Destination](https://no-destination.vercel.app/) | This is a practice project that allows you to write things that are going to disappear. |
+| [Library test Frontend](https://github.com/leanczo/library-test-frontend) | This is a practice project to practice creating a frontend with React |
+| [Library test Backend](https://github.com/leanczo/library-test-backend) | This is a practice project to practice creating an API with NET Core |
