@@ -1,6 +1,15 @@
 ## Hi there, I'm Leandro 👋
 I'm a developer from Argentina and I love working on various exciting projects. Over the course of my career, I've published a series of projects across several platforms. Here's a summary of the most notable ones:
 
+### Google Play Store
+
+I've also developed and published an app for smartwatches using Wear OS, focused on Formula 1 fans:
+
+| App | Description |
+|---|---|
+| [Fast Laps](https://play.google.com/store/apps/details?id=com.leandro.fastlaps) |  Wear OS app to check F1 race positions and championship standings |
+
+
 ### Chrome Web Store
 I've worked on several browser extensions that have been published on the Chrome Web Store. Here are some of them:
 
