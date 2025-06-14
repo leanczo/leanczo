@@ -7,7 +7,7 @@ I've also developed and published an app for smartwatches using Wear OS, focused
 
 | App | Description |
 |---|---|
-| [Fast Laps](https://play.google.com/store/apps/details?id=com.leandro.fastlaps) |  Wear OS app to check F1 race positions and championship standings |
+| [Fast Laps](https://github.com/leanczo/fast-laps) |  Wear OS app to check F1 race positions and championship standings |
 
 
 ### Chrome Web Store
