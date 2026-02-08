@@ -59,3 +59,5 @@ In addition, I've developed and published a useful extension for Visual Studio C
 | [Hi! Soy Paula](https://www.paulacardozo.com/) | It's a website for an English teacher |
 | [Portfolio](https://leanczo.github.io/) | Portfolio |
 | [En otra onda](https://www.enotraonda.com/) | Website for radio amateurs |
+| [Compra consciente](https://compra-conciente.vercel.app/) | An AI-powered tool designed to help users decide whether a purchase is worth it or not. |
+| [F1 Predictor](https://predictor-f1.vercel.app/) | A web application that predicts Formula 1 drivers’ race results based on different factors. |
